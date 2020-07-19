@@ -1,2 +1,4 @@
-# django_cride
-Django + DRF
+Comparte Ride
+=============
+
+Group-bounded, invite-only, carpooling platform
